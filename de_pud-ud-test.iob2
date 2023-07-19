@@ -622,9 +622,9 @@
 2	begann	O	-	-
 3	eine	O	-	-
 4	der	O	-	-
-5	Yazidi	B-OTH	-	stefan
-6	-	I-OTH	-	stefan
-7	Frauen	I-OTH	-	stefan
+5	Yazidi	O	-	-
+6	-	O	-	-
+7	Frauen	O	-	-
 8	zu	O	-	-
 9	weinen	O	-	-
 10	,	O	-	-
@@ -642,7 +642,7 @@
 3	sich	O	-	-
 4	bei	O	-	-
 5	einer	O	-	-
-6	amerikanischen	B-OTH	-	stefan
+6	amerikanischen	O	-	-
 7	Redneragentur	B-ORG	-	stefan
 8	an	O	-	-
 9	,	O	-	-
@@ -703,7 +703,7 @@
 14	wurden	O	-	-
 15	vor	O	-	-
 16	dem	O	-	-
-17	schottischen	B-OTH	-	stefan
+17	schottischen	O	-	-
 18	Unabhängigkeitsreferendum	O	-	-
 19	2014	O	-	-
 20	versprochen	O	-	-
@@ -772,7 +772,7 @@
 # sent_id = n01016-0001
 # text = Die südkoreanische Firma ging zunächst von einem Akkufehler aus und tauschte ihre eigene Komponente gegen eine Batterie von einem anderen Hersteller aus.
 1	Die	O	-	-
-2	südkoreanische	B-OTH	-	stefan
+2	südkoreanische	O	-	-
 3	Firma	O	-	-
 4	ging	O	-	-
 5	zunächst	O	-	-
@@ -818,8 +818,8 @@
 # sent_id = n01016-0003
 # text = Den Mate 9 Smartphones fehlt eine Schnittstelle für künstliche Intelligenz, wie der Google Assistant oder Siri (Apple).
 1	Den	O	-	-
-2	Mate	B-OTH	-	stefan
-3	9	I-OTH	-	stefan
+2	Mate	O	-	-
+3	9	O	-	-
 4	Smartphones	O	-	-
 5	fehlt	O	-	-
 6	eine	O	-	-
@@ -830,10 +830,10 @@
 11	,	O	-	-
 12	wie	O	-	-
 13	der	O	-	-
-14	Google	B-OTH	-	stefan
-15	Assistant	I-OTH	-	stefan
+14	Google	O	-	-
+15	Assistant	O	-	-
 16	oder	O	-	-
-17	Siri	B-OTH	-	stefan
+17	Siri	O	-	-
 18	(	O	-	-
 19	Apple	B-ORG	-	stefan
 20	)	O	-	-
@@ -1241,9 +1241,9 @@
 8	Richtung	O	-	-
 9	:	O	-	-
 10	das	O	-	-
-11	Abkommen	B-OTH	-	stefan
-12	von	I-OTH	-	stefan
-13	Paris	I-OTH	-	stefan
+11	Abkommen	O	-	-
+12	von	O	-	-
+13	Paris	O	-	-
 14	wird	O	-	-
 15	den	O	-	-
 16	Klimawandel	O	-	-
@@ -1252,9 +1252,9 @@
 19	genauso	O	-	-
 20	wie	O	-	-
 21	das	O	-	-
-22	Abkommen	B-OTH	-	stefan
-23	von	I-OTH	-	stefan
-24	Kigali	I-OTH	-	stefan
+22	Abkommen	O	-	-
+23	von	O	-	-
+24	Kigali	O	-	-
 25	zu	O	-	-
 26	der	O	-	-
 27	Reduzierung	O	-	-
@@ -1301,8 +1301,8 @@
 5	dass	O	-	-
 6	sie	O	-	-
 7	das	O	-	-
-8	Pariser	B-OTH	-	stefan
-9	Abkommen	I-OTH	-	stefan
+8	Pariser	O	-	-
+9	Abkommen	O	-	-
 10	zustande	O	-	-
 11	gebracht	O	-	-
 12	haben	O	-	-
@@ -1693,7 +1693,7 @@
 6	als	O	-	-
 7	er	O	-	-
 8	das	O	-	-
-9	russische	B-OTH	-	stefan
+9	russische	O	-	-
 10	Vorgehen	O	-	-
 11	auf	O	-	-
 12	der	O	-	-
@@ -1738,8 +1738,8 @@
 6	Wladiwostok	B-LOC	-	stefan
 7	in	O	-	-
 8	dem	O	-	-
-9	Fernen	B-OTH	-	stefan
-10	Osten	I-OTH	-	stefan
+9	Fernen	O	-	-
+10	Osten	O	-	-
 11	Russlands	B-LOC	-	stefan
 12	stammt	O	-	-
 13	,	O	-	-
@@ -1772,7 +1772,7 @@
 5	erhielt	O	-	-
 6	Seagal	B-PER	-	stefan
 7	die	O	-	-
-8	serbische	B-OTH	-	stefan
+8	serbische	O	-	-
 9	Staatsbürgerschaft	O	-	-
 10	,	O	-	-
 11	nachdem	O	-	-
@@ -1832,7 +1832,7 @@
 6	das	O	-	-
 7	oscarprämierte	O	-	-
 8	Drama	O	-	-
-9	Gravity	B-OTH	-	stefan
+9	Gravity	O	-	-
 10	war	O	-	-
 11	,	O	-	-
 12	befand	O	-	-
@@ -1852,8 +1852,8 @@
 # sent_id = n01030-0003
 # text = Der örtlichen Polizeibehörde zufolge kam es zu einem Kampf, nachdem „eine große Gruppe von Personen …, die sich als Bezirksbeamte auswiesen“, an dem Dienstag an dem Set eintraf.
 1	Der	O	-	-
-2	örtlichen	B-OTH	-	stefan
-3	Polizeibehörde	I-OTH	-	stefan
+2	örtlichen	O	-	-
+3	Polizeibehörde	O	-	-
 4	zufolge	O	-	-
 5	kam	O	-	-
 6	es	O	-	-
@@ -2113,7 +2113,7 @@
 22	sicherzustellen	O	-	-
 23	,	O	-	-
 24	dass	O	-	-
-25	kanadische	B-OTH	-	stefan
+25	kanadische	O	-	-
 26	Firmen	O	-	-
 27	und	O	-	-
 28	Interessen	O	-	-
@@ -2371,7 +2371,7 @@
 # sent_id = n01037-0001
 # text = Aber Chinas wachsende Mittelklasse hat sich ungewöhnlich stark über giftige Luft in Städten wie Peking beschwert, die der Smog Tag für Tag in dem Würgegriff hält.
 1	Aber	O	-	-
-2	Chinas	B-OTH	-	stefan
+2	Chinas	O	-	-
 3	wachsende	O	-	-
 4	Mittelklasse	O	-	-
 5	hat	O	-	-
@@ -2460,9 +2460,9 @@
 15	Bestimmung	O	-	-
 16	in	O	-	-
 17	dem	O	-	-
-18	Abkommen	B-OTH	-	stefan
-19	von	I-OTH	-	stefan
-20	Paris	I-OTH	-	stefan
+18	Abkommen	O	-	-
+19	von	O	-	-
+20	Paris	O	-	-
 21	dazu	O	-	-
 22	zu	O	-	-
 23	nutzen	O	-	-
@@ -2543,8 +2543,8 @@
 13	Wahlkampf	O	-	-
 14	seit	O	-	-
 15	dem	O	-	-
-16	Republikanischen	B-OTH	-	stefan
-17	Parteitag	I-OTH	-	stefan
+16	Republikanischen	O	-	-
+17	Parteitag	O	-	-
 18	in	O	-	-
 19	dem	O	-	-
 20	Juli	O	-	-
@@ -3049,7 +3049,7 @@
 24	Rolle	O	-	-
 25	der	O	-	-
 26	(	O	-	-
-27	inländischen	B-OTH	-	stefan
+27	inländischen	O	-	-
 28	)	O	-	-
 29	Investoren	O	-	-
 30	auf	O	-	-
@@ -3447,8 +3447,8 @@
 13	die	O	-	-
 14	Kultur	O	-	-
 15	der	O	-	-
-16	First	B-OTH	-	stefan
-17	Nations	I-OTH	-	stefan
+16	First	O	-	-
+17	Nations	O	-	-
 18	trivialisieren	O	-	-
 19	.	O	-	-
 
@@ -3665,7 +3665,7 @@
 
 # sent_id = n01059-0002
 # text = Republikanische Wirtschaftsexperten warnen davor, diese Daten als Beweis dafür anzusehen, dass ihre Partei keine Ahnung von Wirtschaftspolitik hat.
-1	Republikanische	B-OTH	-	stefan
+1	Republikanische	O	-	-
 2	Wirtschaftsexperten	O	-	-
 3	warnen	O	-	-
 4	davor	O	-	-
@@ -3891,8 +3891,8 @@
 1	Die	O	-	-
 2	Produzenten	O	-	-
 3	von	O	-	-
-4	Miami	B-OTH	-	stefan
-5	Bass	I-OTH	-	stefan
+4	Miami	O	-	-
+5	Bass	O	-	-
 6	nahmen	O	-	-
 7	die	O	-	-
 8	Kunst	O	-	-
@@ -3925,10 +3925,10 @@
 14	Version	O	-	-
 15	von	O	-	-
 16	„	O	-	-
-17	Knuck	B-OTH	-	stefan
-18	If	I-OTH	-	stefan
-19	You	I-OTH	-	stefan
-20	Buck	I-OTH	-	stefan
+17	Knuck	O	-	-
+18	If	O	-	-
+19	You	O	-	-
+20	Buck	O	-	-
 21	“	O	-	-
 22	auf	O	-	-
 23	einem	O	-	-
@@ -4111,8 +4111,8 @@
 7	Edition	O	-	-
 8	von	O	-	-
 9	„	O	-	-
-10	Zettel's	B-OTH	-	stefan
-11	Traum	I-OTH	-	stefan
+10	Zettel's	O	-	-
+11	Traum	O	-	-
 12	“	O	-	-
 13	und	O	-	-
 14	nahm	O	-	-
@@ -4772,9 +4772,9 @@
 8	Deutschland	B-LOC	-	stefan
 9	von	O	-	-
 10	dem	O	-	-
-11	Nazi	B-OTH	-	stefan
-12	-	I-OTH	-	stefan
-13	Regime	I-OTH	-	stefan
+11	Nazi	O	-	-
+12	-	O	-	-
+13	Regime	O	-	-
 14	getrennt	O	-	-
 15	werden	O	-	-
 16	muss	O	-	-
@@ -4971,7 +4971,7 @@
 7	unzureichenden	O	-	-
 8	Schutz	O	-	-
 9	für	O	-	-
-10	amerikanische	B-OTH	-	stefan
+10	amerikanische	O	-	-
 11	Arbeiter	O	-	-
 12	bietet	O	-	-
 13	,	O	-	-
@@ -5942,8 +5942,8 @@
 7	unmittelbar	O	-	-
 8	an	O	-	-
 9	der	O	-	-
-10	kanadischen	B-OTH	-	stefan
-11	Grenze	I-OTH	-	stefan
+10	kanadischen	O	-	-
+11	Grenze	O	-	-
 12	.	O	-	-
 
 # newdoc id = n01098
@@ -6498,7 +6498,7 @@
 11	unmittelbar	O	-	-
 12	nach	O	-	-
 13	der	O	-	-
-14	Brexit	B-OTH	-	stefan
+14	Brexit	O	-	-
 15	-	O	-	-
 16	Abstimmung	O	-	-
 17	,	O	-	-
@@ -7855,9 +7855,9 @@
 6	,	O	-	-
 7	nicht	O	-	-
 8	„	O	-	-
-9	Game	B-OTH	-	stefan
-10	of	I-OTH	-	stefan
-11	Thrones	I-OTH	-	stefan
+9	Game	O	-	-
+10	of	O	-	-
+11	Thrones	O	-	-
 12	“	O	-	-
 13	.	O	-	-
 
@@ -7880,17 +7880,17 @@
 15	den	O	-	-
 16	Arbeitstitel	O	-	-
 17	„	O	-	-
-18	The	B-OTH	-	stefan
-19	Winds	I-OTH	-	stefan
-20	of	I-OTH	-	stefan
-21	Winter	I-OTH	-	stefan
+18	The	O	-	-
+19	Winds	O	-	-
+20	of	O	-	-
+21	Winter	O	-	-
 22	“	O	-	-
 23	und	O	-	-
 24	„	O	-	-
-25	A	B-OTH	-	stefan
-26	Dream	I-OTH	-	stefan
-27	of	I-OTH	-	stefan
-28	Spring	I-OTH	-	stefan
+25	A	O	-	-
+26	Dream	O	-	-
+27	of	O	-	-
+28	Spring	O	-	-
 29	“	O	-	-
 30	tragen	O	-	-
 31	.	O	-	-
@@ -7899,7 +7899,7 @@
 # sent_id = n01133-0001
 # text = Die niederländischen Studierenden müssen sich noch entscheiden, ob sie ihr elektrisches Motorrad kaufmännisch verwerten möchten.
 1	Die	O	-	-
-2	niederländischen	B-OTH	-	stefan
+2	niederländischen	O	-	-
 3	Studierenden	O	-	-
 4	müssen	O	-	-
 5	sich	O	-	-
@@ -7978,9 +7978,9 @@
 10	die	O	-	-
 11	US	O	-	-
 12	-	O	-	-
-13	amerikanischen	B-OTH	-	stefan
+13	amerikanischen	O	-	-
 14	und	O	-	-
-15	australischen	B-OTH	-	stefan
+15	australischen	O	-	-
 16	Anleihen	O	-	-
 17	an	O	-	-
 18	dem	O	-	-
@@ -8004,7 +8004,7 @@
 11	des	O	-	-
 12	von	O	-	-
 13	den	O	-	-
-14	chinesischen	B-OTH	-	stefan
+14	chinesischen	O	-	-
 15	Kommunalverwaltungen	O	-	-
 16	verursachten	O	-	-
 17	Schuldenbergs	O	-	-
@@ -8042,7 +8042,7 @@
 2	unersättliche	O	-	-
 3	Appetit	O	-	-
 4	der	O	-	-
-5	Chinesen	B-OTH	-	stefan
+5	Chinesen	O	-	-
 6	auf	O	-	-
 7	gebratenes	O	-	-
 8	Hühnerfleisch	O	-	-
@@ -8174,8 +8174,8 @@
 15	Charaktere	O	-	-
 16	aus	O	-	-
 17	„	O	-	-
-18	Stranger	B-OTH	-	stefan
-19	Things	I-OTH	-	stefan
+18	Stranger	O	-	-
+19	Things	O	-	-
 20	“	O	-	-
 21	.	O	-	-
 
@@ -8253,9 +8253,9 @@
 6	die	O	-	-
 7	Talkshow	O	-	-
 8	„	O	-	-
-9	The	B-OTH	-	stefan
-10	Talking	I-OTH	-	stefan
-11	Dead	I-OTH	-	stefan
+9	The	O	-	-
+10	Talking	O	-	-
+11	Dead	O	-	-
 12	“	O	-	-
 13	an	O	-	-
 14	.	O	-	-
@@ -8507,7 +8507,7 @@
 3	schummelt	O	-	-
 4	sich	O	-	-
 5	in	O	-	-
-6	nordkoreanisches	B-OTH	-	stefan
+6	nordkoreanisches	O	-	-
 7	Golfturnier	O	-	-
 8	“	O	-	-
 9	,	O	-	-
@@ -8515,7 +8515,7 @@
 11	es	O	-	-
 12	in	O	-	-
 13	der	O	-	-
-14	Brisbaner	B-OTH	-	stefan
+14	Brisbaner	O	-	-
 15	Zeitung	O	-	-
 16	„	O	-	-
 17	Nine	B-ORG	-	stefan
@@ -8526,7 +8526,7 @@
 # sent_id = n01143-0002
 # text = Zwei Australier, die nach eigenem Bekunden schrecklich schlechte Golfspieler sind, haben sich in ein Premium-Golfturnier in Nordkorea geschummelt.
 1	Zwei	O	-	-
-2	Australier	B-OTH	-	stefan
+2	Australier	O	-	-
 3	,	O	-	-
 4	die	O	-	-
 5	nach	O	-	-
@@ -8703,7 +8703,7 @@
 15	,	O	-	-
 16	warum	O	-	-
 17	die	O	-	-
-18	Mexikaner	B-OTH	-	stefan
+18	Mexikaner	O	-	-
 19	den	O	-	-
 20	Zeitpunkt	O	-	-
 21	für	O	-	-
@@ -8756,7 +8756,7 @@
 20	Tradition	O	-	-
 21	für	O	-	-
 22	die	O	-	-
-23	Mexikaner	B-OTH	-	stefan
+23	Mexikaner	O	-	-
 24	zu	O	-	-
 25	schaffen	O	-	-
 26	.	O	-	-
@@ -8867,7 +8867,7 @@
 11	dem	O	-	-
 12	Beispiel	O	-	-
 13	des	O	-	-
-14	MahaNakhon	B-OTH	-	stefan
+14	MahaNakhon	O	-	-
 15	,	O	-	-
 16	des	O	-	-
 17	höchsten	O	-	-
@@ -9138,7 +9138,7 @@
 5	Kartendaten	O	-	-
 6	ermittelt	O	-	-
 7	die	O	-	-
-8	Essener	B-OTH	-	stefan
+8	Essener	O	-	-
 9	Polizei	O	-	-
 10	gegen	O	-	-
 11	vier	O	-	-
@@ -9247,7 +9247,7 @@
 # sent_id = n02024-0001
 # text = Eine schwedische Studie zeigt, dass die Tiere jenseits der zweimonatigen Brutzeit nur selten landen, wenn überhaupt.
 1	Eine	O	-	-
-2	schwedische	B-OTH	-	stefan
+2	schwedische	O	-	-
 3	Studie	O	-	-
 4	zeigt	O	-	-
 5	,	O	-	-
@@ -9275,7 +9275,7 @@
 4	in	O	-	-
 5	Großbritannien	B-LOC	-	stefan
 6	zahlreiche	O	-	-
-7	russische	B-OTH	-	stefan
+7	russische	O	-	-
 8	Geheimdienstmitarbeiter	O	-	-
 9	aktiv	O	-	-
 10	.	O	-	-
@@ -9374,13 +9374,13 @@
 # text = Wenn ein türkischer Mitarbeiter kündigt, kommen die türkischen Betriebsräte.
 1	Wenn	O	-	-
 2	ein	O	-	-
-3	türkischer	B-OTH	-	stefan
+3	türkischer	O	-	-
 4	Mitarbeiter	O	-	-
 5	kündigt	O	-	-
 6	,	O	-	-
 7	kommen	O	-	-
 8	die	O	-	-
-9	türkischen	B-OTH	-	stefan
+9	türkischen	O	-	-
 10	Betriebsräte	O	-	-
 11	.	O	-	-
 
@@ -9773,7 +9773,7 @@
 # sent_id = n02066-0001
 # text = Der kanadische Flugunfallermittler Larry Vance etwa sagte dem SPIEGEL, er sei überzeugt, dass einer der Piloten die Maschine gezielt auf der Oberfläche des Ozeans habe landen wollen - damit sie untergeht.
 1	Der	O	-	-
-2	kanadische	B-OTH	-	stefan
+2	kanadische	O	-	-
 3	Flugunfallermittler	O	-	-
 4	Larry	B-PER	-	stefan
 5	Vance	I-PER	-	stefan
@@ -9810,7 +9810,7 @@
 # sent_id = n02066-0002
 # text = Die australischen Experten zogen ihre neuen Schlüsse unter anderem aus der Untersuchung einer Landeklappe der Boeing, die in Tansania in Ostafrika angespült worden war.
 1	Die	O	-	-
-2	australischen	B-OTH	-	stefan
+2	australischen	O	-	-
 3	Experten	O	-	-
 4	zogen	O	-	-
 5	ihre	O	-	-
@@ -10291,7 +10291,7 @@
 # sent_id = n03003-0001
 # text = Die islamischen Konservativen der AKP haben diese Ablehnung als Rechtfertigung für die Verhöre verwendet.
 1	Die	O	-	-
-2	islamischen	B-OTH	-	stefan
+2	islamischen	O	-	-
 3	Konservativen	O	-	-
 4	der	O	-	-
 5	AKP	B-ORG	-	stefan
@@ -10637,7 +10637,7 @@
 7	,	O	-	-
 8	verriet	O	-	-
 9	die	O	-	-
-10	französische	B-OTH	-	stefan
+10	französische	O	-	-
 11	Division	O	-	-
 12	.	O	-	-
 
@@ -10862,7 +10862,7 @@
 3	Song	O	-	-
 4	ist	O	-	-
 5	„	O	-	-
-6	Geronimo	B-OTH	-	stefan
+6	Geronimo	O	-	-
 7	“	O	-	-
 8	von	O	-	-
 9	Sheppard	B-PER	-	stefan
@@ -11254,7 +11254,7 @@
 15	dem	O	-	-
 16	Vorstand	O	-	-
 17	des	O	-	-
-18	chinesischen	B-OTH	-	stefan
+18	chinesischen	O	-	-
 19	Unternehmens	O	-	-
 20	.	O	-	-
 
@@ -11907,7 +11907,7 @@
 13	Entscheidung	O	-	-
 14	zu	O	-	-
 15	dem	O	-	-
-16	Brexit	B-OTH	-	stefan
+16	Brexit	O	-	-
 17	den	O	-	-
 18	Medien	O	-	-
 19	entzogen	O	-	-
@@ -12137,7 +12137,7 @@
 # sent_id = w01005-0002
 # text = Die achämenidischen Truppen eroberten Thrakien, die griechischen Küstenstädte und Paionien.
 1	Die	O	-	-
-2	achämenidischen	B-OTH	-	stefan
+2	achämenidischen	O	-	-
 3	Truppen	O	-	-
 4	eroberten	O	-	-
 5	Thrakien	B-LOC	-	stefan
@@ -12165,7 +12165,7 @@
 12	v.	O	-	-
 13	Chr.	O	-	-
 14	die	O	-	-
-15	achämenidische	B-OTH	-	stefan
+15	achämenidische	O	-	-
 16	Vorherrschaft	O	-	-
 17	und	O	-	-
 18	übergab	O	-	-
@@ -12175,7 +12175,7 @@
 22	Vasallenstaat	O	-	-
 23	an	O	-	-
 24	das	O	-	-
-25	achämenidische	B-OTH	-	stefan
+25	achämenidische	O	-	-
 26	Persien	B-LOC	-	stefan
 27	.	O	-	-
 
@@ -12183,7 +12183,7 @@
 # text = Die multiethnische achämenidische Armee besaß viele Soldante aus dem Balkan.
 1	Die	O	-	-
 2	multiethnische	O	-	-
-3	achämenidische	B-OTH	-	stefan
+3	achämenidische	O	-	-
 4	Armee	O	-	-
 5	besaß	O	-	-
 6	viele	O	-	-
@@ -12203,7 +12203,7 @@
 6	mazedonischen	O	-	-
 7	und	O	-	-
 8	der	O	-	-
-9	persischen	B-OTH	-	stefan
+9	persischen	O	-	-
 10	Oberschicht	O	-	-
 11	untereinander	O	-	-
 12	.	O	-	-
@@ -12238,8 +12238,8 @@
 # text = 2007 war El Greco unter der Regie von Yannis Smaragdis der erfoglreichste Film.
 1	2007	O	-	-
 2	war	O	-	-
-3	El	B-OTH	-	stefan
-4	Greco	I-OTH	-	stefan
+3	El	O	-	-
+4	Greco	O	-	-
 5	unter	O	-	-
 6	der	O	-	-
 7	Regie	O	-	-
@@ -12588,10 +12588,10 @@
 24	und	O	-	-
 25	Entlehnungen	O	-	-
 26	des	O	-	-
-27	Dänischen	B-OTH	-	stefan
+27	Dänischen	O	-	-
 28	in	O	-	-
 29	der	O	-	-
-30	isländischen	B-OTH	-	stefan
+30	isländischen	O	-	-
 31	Sprache	O	-	-
 32	zu	O	-	-
 33	finden	O	-	-
@@ -12606,7 +12606,7 @@
 5	,	O	-	-
 6	die	O	-	-
 7	dem	O	-	-
-8	Finnischen	B-OTH	-	stefan
+8	Finnischen	O	-	-
 9	entstammen	O	-	-
 10	und	O	-	-
 11	sich	O	-	-
@@ -12633,9 +12633,9 @@
 4	ein	O	-	-
 5	Merkmal	O	-	-
 6	der	O	-	-
-7	finnischen	B-OTH	-	stefan
+7	finnischen	O	-	-
 8	und	O	-	-
-9	nordsamischen	B-OTH	-	stefan
+9	nordsamischen	O	-	-
 10	Dialekte	O	-	-
 11	,	O	-	-
 12	der	O	-	-
@@ -12643,7 +12643,7 @@
 14	nicht	O	-	-
 15	in	O	-	-
 16	der	O	-	-
-17	Südsamischen	B-OTH	-	stefan
+17	Südsamischen	O	-	-
 18	Sprache	O	-	-
 19	zu	O	-	-
 20	finden	O	-	-
@@ -12842,7 +12842,7 @@
 7	sich	O	-	-
 8	das	O	-	-
 9	ehemals	O	-	-
-10	britische	B-OTH	-	stefan
+10	britische	O	-	-
 11	Südkamerun	B-LOC	-	stefan
 12	mit	O	-	-
 13	Französisch	B-LOC	-	stefan
@@ -13079,8 +13079,8 @@
 3	als	O	-	-
 4	Augustus	B-PER	-	stefan
 5	das	O	-	-
-6	Römische	B-OTH	-	stefan
-7	Reich	I-OTH	-	stefan
+6	Römische	O	-	-
+7	Reich	O	-	-
 8	gegründet	O	-	-
 9	hatte	O	-	-
 10	,	O	-	-
@@ -13129,7 +13129,7 @@
 # text = In dem Dänischen kann das Wort sogar für seichte Lagunen verwendet werden.
 1	In	O	-	-
 2	dem	O	-	-
-3	Dänischen	B-OTH	-	stefan
+3	Dänischen	O	-	-
 4	kann	O	-	-
 5	das	O	-	-
 6	Wort	O	-	-
@@ -13236,7 +13236,7 @@
 31	von	O	-	-
 32	der	O	-	-
 33	anrückenden	O	-	-
-34	deutschen	B-OTH	-	stefan
+34	deutschen	O	-	-
 35	Armee	O	-	-
 36	erobert	O	-	-
 37	worden	O	-	-
@@ -13249,9 +13249,9 @@
 3	kam	O	-	-
 4	für	O	-	-
 5	die	O	-	-
-6	österreichisch	B-OTH	-	stefan
-7	-	I-OTH	-	stefan
-8	preußische	I-OTH	-	stefan
+6	österreichisch	O	-	-
+7	-	O	-	-
+8	preußische	O	-	-
 9	Armee	O	-	-
 10	überraschend	O	-	-
 11	und	O	-	-
@@ -13261,7 +13261,7 @@
 15	allen	O	-	-
 16	in	O	-	-
 17	der	O	-	-
-18	dänischen	B-OTH	-	stefan
+18	dänischen	O	-	-
 19	Armee	O	-	-
 20	,	O	-	-
 21	die	O	-	-
@@ -13566,7 +13566,7 @@
 
 # sent_id = w01029-0002
 # text = Amerikanische Ureinwohner in ganz Amerika vertrauten darauf als Basis ihrer medizinischen Behandlungen.
-1	Amerikanische	B-OTH	-	stefan
+1	Amerikanische	O	-	-
 2	Ureinwohner	O	-	-
 3	in	O	-	-
 4	ganz	O	-	-
@@ -14121,7 +14121,7 @@
 18	er	O	-	-
 19	eine	O	-	-
 20	Ära	O	-	-
-21	europäischer	B-OTH	-	stefan
+21	europäischer	O	-	-
 22	Forschungsexpeditionen	O	-	-
 23	begründete	O	-	-
 24	.	O	-	-
@@ -14202,7 +14202,7 @@
 10	,	O	-	-
 11	bevor	O	-	-
 12	die	O	-	-
-13	Europäer	B-OTH	-	stefan
+13	Europäer	O	-	-
 14	in	O	-	-
 15	dem	O	-	-
 16	Gebiet	O	-	-
@@ -14543,7 +14543,7 @@
 24	15.	O	-	-
 25	Jahrhunderts	O	-	-
 26	vorherrschenden	O	-	-
-27	uramerikanischen	B-OTH	-	stefan
+27	uramerikanischen	O	-	-
 28	Gruppen	O	-	-
 29	in	O	-	-
 30	der	O	-	-
@@ -14566,7 +14566,7 @@
 12	bezog	O	-	-
 13	sich	O	-	-
 14	die	O	-	-
-15	spanische	B-OTH	-	stefan
+15	spanische	O	-	-
 16	Bezeichnung	O	-	-
 17	Antillas	B-LOC	-	stefan
 18	auf	O	-	-
@@ -14592,7 +14592,7 @@
 38	“	O	-	-
 39	in	O	-	-
 40	verschiedenen	O	-	-
-41	europäischen	B-OTH	-	stefan
+41	europäischen	O	-	-
 42	Sprachen	O	-	-
 43	.	O	-	-
 
@@ -14606,7 +14606,7 @@
 6	Entwicklung	O	-	-
 7	blieb	O	-	-
 8	die	O	-	-
-9	Spanische	B-OTH	-	stefan
+9	Spanische	O	-	-
 10	Vorherrschaft	O	-	-
 11	in	O	-	-
 12	der	O	-	-
@@ -14622,7 +14622,7 @@
 4	.	O	-	-
 5	Jahrhundert	O	-	-
 6	bezeichneten	O	-	-
-7	Europäer	B-OTH	-	stefan
+7	Europäer	O	-	-
 8	,	O	-	-
 9	die	O	-	-
 10	die	O	-	-
@@ -14692,7 +14692,7 @@
 24	als	O	-	-
 25	erster	O	-	-
 26	in	O	-	-
-27	karibische	B-OTH	-	stefan
+27	karibische	O	-	-
 28	Gewässer	O	-	-
 29	stach	O	-	-
 30	.	O	-	-
@@ -14910,7 +14910,7 @@
 # sent_id = w01049-0002
 # text = Der australische Royal-Nationalpark, der 1879 gegründet wurde, war der weltweit zweite offiziell gegründete Nationalpark.
 1	Der	O	-	-
-2	australische	B-OTH	-	stefan
+2	australische	O	-	-
 3	Royal	B-ORG	-	stefan
 4	-	I-ORG	-	stefan
 5	Nationalpark	I-ORG	-	stefan
@@ -15175,7 +15175,7 @@
 2	fand	O	-	-
 3	sich	O	-	-
 4	der	O	-	-
-5	ägyptische	B-OTH	-	stefan
+5	ägyptische	O	-	-
 6	Pharao	O	-	-
 7	in	O	-	-
 8	dem	O	-	-
@@ -15205,7 +15205,7 @@
 32	Jahre	O	-	-
 33	zuvor	O	-	-
 34	kein	O	-	-
-35	ägyptischer	B-OTH	-	stefan
+35	ägyptischer	O	-	-
 36	Soldat	O	-	-
 37	mehr	O	-	-
 38	gewesen	O	-	-
@@ -15299,8 +15299,8 @@
 # text = Nach dem Neuen Testament verbrachte Paul achtzehn Monate in Korinth, ungefähr siebzehn Jahre nach seiner Konvertierung.
 1	Nach	O	-	-
 2	dem	O	-	-
-3	Neuen	B-OTH	-	stefan
-4	Testament	I-OTH	-	stefan
+3	Neuen	O	-	-
+4	Testament	O	-	-
 5	verbrachte	O	-	-
 6	Paul	B-PER	-	stefan
 7	achtzehn	O	-	-
@@ -15471,8 +15471,8 @@
 13	die	O	-	-
 14	von	O	-	-
 15	dem	O	-	-
-16	Trojanischen	B-OTH	-	stefan
-17	Krieg	I-OTH	-	stefan
+16	Trojanischen	O	-	-
+17	Krieg	O	-	-
 18	inspiriert	O	-	-
 19	waren	O	-	-
 20	.	O	-	-
@@ -15922,7 +15922,7 @@
 12	sie	O	-	-
 13	könnten	O	-	-
 14	eine	O	-	-
-15	kanaanäische	B-OTH	-	stefan
+15	kanaanäische	O	-	-
 16	„	O	-	-
 17	Kulthöhe	O	-	-
 18	“	O	-	-
@@ -15941,7 +15941,7 @@
 # sent_id = w01065-0003
 # text = Die kanaanäische Stadt wurde in einem Brand zerstört, vermutlich als Folge eines Feldzuges des ägyptischen Pharaos Thutmosis III.
 1	Die	O	-	-
-2	kanaanäische	B-OTH	-	stefan
+2	kanaanäische	O	-	-
 3	Stadt	O	-	-
 4	wurde	O	-	-
 5	in	O	-	-
@@ -16020,7 +16020,7 @@
 # newdoc id = w01066
 # sent_id = w01066-0001
 # text = Thailändische Geburtsurkunden enthalten das Datum, den Monat und die Uhrzeit der Geburt, gefolgt von dem Wochentag, dem Datum in dem Mondkalender und dem zugehörigen Namen des Tierkreiszeichens.
-1	Thailändische	B-OTH	-	stefan
+1	Thailändische	O	-	-
 2	Geburtsurkunden	O	-	-
 3	enthalten	O	-	-
 4	das	O	-	-
@@ -16072,7 +16072,7 @@
 
 # sent_id = w01066-0003
 # text = Thailändische Glücksfarben des Tages werden in der Übersicht der Wochentage anegeben, darunter folgt ein Vereweis zu den Buddha-Abbildungen für jeden Tag der Woche.
-1	Thailändische	B-OTH	-	stefan
+1	Thailändische	O	-	-
 2	Glücksfarben	O	-	-
 3	des	O	-	-
 4	Tages	O	-	-
@@ -16103,7 +16103,7 @@
 # sent_id = w01066-0004
 # text = Das chinesische Neujahrsfest und andere Feste der Thai-Chinesen sind in Bezug auf beides beweglich, weil sie nach dem chinesischen Kalender berechnet werden.
 1	Das	O	-	-
-2	chinesische	B-OTH	-	stefan
+2	chinesische	O	-	-
 3	Neujahrsfest	O	-	-
 4	und	O	-	-
 5	andere	O	-	-
@@ -16123,7 +16123,7 @@
 19	sie	O	-	-
 20	nach	O	-	-
 21	dem	O	-	-
-22	chinesischen	B-OTH	-	stefan
+22	chinesischen	O	-	-
 23	Kalender	O	-	-
 24	berechnet	O	-	-
 25	werden	O	-	-
@@ -16214,7 +16214,7 @@
 14	Sendung	O	-	-
 15	in	O	-	-
 16	dem	O	-	-
-17	japanischen	B-OTH	-	stefan
+17	japanischen	O	-	-
 18	Kinderfernsehen	O	-	-
 19	zu	O	-	-
 20	dem	O	-	-
@@ -16259,9 +16259,9 @@
 13	dem	O	-	-
 14	Kaiser	O	-	-
 15	des	O	-	-
-16	Heiligen	B-OTH	-	stefan
-17	Römischen	I-OTH	-	stefan
-18	Reiches	I-OTH	-	stefan
+16	Heiligen	O	-	-
+17	Römischen	O	-	-
+18	Reiches	O	-	-
 19	gekrönt	O	-	-
 20	.	O	-	-
 
@@ -16558,7 +16558,7 @@
 9	Halbinsel	O	-	-
 10	von	O	-	-
 11	den	O	-	-
-12	Römern	B-OTH	-	stefan
+12	Römern	O	-	-
 13	aus	O	-	-
 14	verwaltungstechnischen	O	-	-
 15	Gründen	O	-	-
@@ -16957,7 +16957,7 @@
 # sent_id = w01076-0002
 # text = Die arabische Revolution, die 1916 begann, wendete an der Nahostfront das Blatt gegen die Osmanen, die hier während der ersten zwei Kriegsjahre zunächst die Oberhand zu behalten schienen.
 1	Die	O	-	-
-2	arabische	B-OTH	-	stefan
+2	arabische	O	-	-
 3	Revolution	O	-	-
 4	,	O	-	-
 5	die	O	-	-
@@ -16972,7 +16972,7 @@
 14	Blatt	O	-	-
 15	gegen	O	-	-
 16	die	O	-	-
-17	Osmanen	B-OTH	-	stefan
+17	Osmanen	O	-	-
 18	,	O	-	-
 19	die	O	-	-
 20	hier	O	-	-
@@ -17033,7 +17033,7 @@
 1	1538	O	-	-
 2	warnte	O	-	-
 3	die	O	-	-
-4	Spanische	B-OTH	-	stefan
+4	Spanische	O	-	-
 5	Inquisition	O	-	-
 6	ihre	O	-	-
 7	Mitglieder	O	-	-
@@ -17116,7 +17116,7 @@
 # sent_id = w01080-0001
 # text = Die mazedonische Ostgrenze zu Thrakien wurde nun durch den Fluss Nestus (Mesta) gesichert.
 1	Die	O	-	-
-2	mazedonische	B-OTH	-	stefan
+2	mazedonische	O	-	-
 3	Ostgrenze	O	-	-
 4	zu	O	-	-
 5	Thrakien	B-LOC	-	stefan
@@ -17173,7 +17173,7 @@
 # sent_id = w01080-0004
 # text = Die mazedonische Armee drang bis zu dem Pass von Thermopylae vor, der Griechenland in zwei Teile teilt, aber sie versuchte nicht, ihn einzunehmen, weil er von einer gemeinsamen Streitmacht aus Athenern, Spartanern und Achäern stark bewacht war.
 1	Die	O	-	-
-2	mazedonische	B-OTH	-	stefan
+2	mazedonische	O	-	-
 3	Armee	O	-	-
 4	drang	O	-	-
 5	bis	O	-	-
@@ -17231,7 +17231,7 @@
 11	er	O	-	-
 12	eine	O	-	-
 13	große	O	-	-
-14	mazedonische	B-OTH	-	stefan
+14	mazedonische	O	-	-
 15	Armee	O	-	-
 16	zusammen	O	-	-
 17	und	O	-	-
@@ -17275,7 +17275,7 @@
 6	Harbor	I-LOC	-	stefan
 7	häufig	O	-	-
 8	in	O	-	-
-9	amerikanischer	B-OTH	-	stefan
+9	amerikanischer	O	-	-
 10	Propaganda	O	-	-
 11	verwendet	O	-	-
 12	.	O	-	-
@@ -18000,14 +18000,14 @@
 15	Zivilisten	O	-	-
 16	von	O	-	-
 17	den	O	-	-
-18	japanischen	B-OTH	-	stefan
+18	japanischen	O	-	-
 19	Besatzern	O	-	-
 20	getötet	O	-	-
 21	,	O	-	-
 22	die	O	-	-
 23	meisten	O	-	-
 24	davon	O	-	-
-25	Chinesen	B-OTH	-	stefan
+25	Chinesen	O	-	-
 26	(	O	-	-
 27	schätzungsweise	O	-	-
 28	rund	O	-	-
@@ -18067,7 +18067,7 @@
 # newdoc id = w01097
 # sent_id = w01097-0001
 # text = Britische Kavallerie-Truppen erhielten auch eine exzellente Ausbildung in berittener Schwertkampfkunst.
-1	Britische	B-OTH	-	stefan
+1	Britische	O	-	-
 2	Kavallerie	O	-	-
 3	-	O	-	-
 4	Truppen	O	-	-
@@ -18097,7 +18097,7 @@
 12	,	O	-	-
 13	dass	O	-	-
 14	die	O	-	-
-15	britische	B-OTH	-	stefan
+15	britische	O	-	-
 16	schwere	O	-	-
 17	Kavallerie	O	-	-
 18	als	O	-	-
@@ -18130,7 +18130,7 @@
 9	Roma	B-LOC	-	stefan
 10	liegt	O	-	-
 11	die	O	-	-
-12	südasiatische	B-OTH	-	stefan
+12	südasiatische	O	-	-
 13	Herkunft	O	-	-
 14	der	O	-	-
 15	Roma	B-LOC	-	stefan
@@ -18286,15 +18286,15 @@
 17	die	O	-	-
 18	Bedingungen	O	-	-
 19	des	O	-	-
-20	Vertrags	B-OTH	-	stefan
-21	von	I-OTH	-	stefan
-22	Tientsin	I-OTH	-	stefan
+20	Vertrags	O	-	-
+21	von	O	-	-
+22	Tientsin	O	-	-
 23	von	O	-	-
 24	1858	O	-	-
 25	und	O	-	-
 26	die	O	-	-
-27	Pekinger	B-OTH	-	stefan
-28	Konvention	I-OTH	-	stefan
+27	Pekinger	O	-	-
+28	Konvention	O	-	-
 29	von	O	-	-
 30	1860	O	-	-
 31	zu	O	-	-
@@ -18857,7 +18857,7 @@
 12	Hechler	I-PER	-	stefan
 13	,	O	-	-
 14	dem	O	-	-
-15	Anglikanischen	B-OTH	-	stefan
+15	Anglikanischen	O	-	-
 16	Priester	O	-	-
 17	der	O	-	-
 18	britischen	B-ORG	-	stefan
@@ -18955,8 +18955,8 @@
 9	der	O	-	-
 10	Dreharbeiten	O	-	-
 11	zu	O	-	-
-12	That	B-OTH	-	stefan
-13	Summer	I-OTH	-	stefan
+12	That	O	-	-
+13	Summer	O	-	-
 14	in	O	-	-
 15	dem	O	-	-
 16	Jahr	O	-	-
@@ -19097,7 +19097,7 @@
 15	Verwirrung	O	-	-
 16	in	O	-	-
 17	der	O	-	-
-18	indonesischen	B-OTH	-	stefan
+18	indonesischen	O	-	-
 19	Bevölkerung	O	-	-
 20	führte	O	-	-
 21	.	O	-	-
@@ -19300,16 +19300,16 @@
 4	Verkaufszahlen	O	-	-
 5	für	O	-	-
 6	„	O	-	-
-7	The	B-OTH	-	stefan
-8	Power	I-OTH	-	stefan
-9	of	I-OTH	-	stefan
-10	Now	I-OTH	-	stefan
+7	The	O	-	-
+8	Power	O	-	-
+9	of	O	-	-
+10	Now	O	-	-
 11	“	O	-	-
 12	und	O	-	-
 13	„	O	-	-
-14	A	B-OTH	-	stefan
-15	new	I-OTH	-	stefan
-16	Earth	I-OTH	-	stefan
+14	A	O	-	-
+15	new	O	-	-
+16	Earth	O	-	-
 17	“	O	-	-
 18	in	O	-	-
 19	Nordamerika	B-LOC	-	stefan
@@ -19515,10 +19515,10 @@
 # sent_id = w01122-0001
 # text = „Really really love you“ wurde in dem August veröffentlicht und erreichte die Top 50; „Shaky Ground“, die Single-Auskopplung daraus, erschien in dem September aber Geyer war schon in den USA.
 1	„	O	-	-
-2	Really	B-OTH	-	stefan
-3	really	I-OTH	-	stefan
-4	love	I-OTH	-	stefan
-5	you	I-OTH	-	stefan
+2	Really	O	-	-
+3	really	O	-	-
+4	love	O	-	-
+5	you	O	-	-
 6	“	O	-	-
 7	wurde	O	-	-
 8	in	O	-	-
@@ -19532,8 +19532,8 @@
 16	50	O	-	-
 17	;	O	-	-
 18	„	O	-	-
-19	Shaky	B-OTH	-	stefan
-20	Ground	I-OTH	-	stefan
+19	Shaky	O	-	-
+20	Ground	O	-	-
 21	“	O	-	-
 22	,	O	-	-
 23	die	O	-	-
@@ -19605,10 +19605,10 @@
 13	,	O	-	-
 14	erreichte	O	-	-
 15	„	O	-	-
-16	Thought	B-OTH	-	stefan
-17	'	I-OTH	-	stefan
-18	Ya	I-OTH	-	stefan
-19	Knew	I-OTH	-	stefan
+16	Thought	O	-	-
+17	'	O	-	-
+18	Ya	O	-	-
+19	Knew	O	-	-
 20	“	O	-	-
 21	die	O	-	-
 22	Nr.	O	-	-
@@ -19655,8 +19655,8 @@
 18	des	O	-	-
 19	Musicals	O	-	-
 20	„	O	-	-
-21	The	B-OTH	-	stefan
-22	Wiz	I-OTH	-	stefan
+21	The	O	-	-
+22	Wiz	O	-	-
 23	“	O	-	-
 24	.	O	-	-
 
@@ -19856,8 +19856,8 @@
 14	dem	O	-	-
 15	Song	O	-	-
 16	„	O	-	-
-17	Fjögur	B-OTH	-	stefan
-18	Píanó	I-OTH	-	stefan
+17	Fjögur	O	-	-
+18	Píanó	O	-	-
 19	“	O	-	-
 20	,	O	-	-
 21	in	O	-	-
@@ -19977,10 +19977,10 @@
 15	Robinson	I-PER	-	stefan
 16	eine	O	-	-
 17	„	O	-	-
-18	Rückkehr	B-OTH	-	stefan
-19	zu	I-OTH	-	stefan
-20	der	I-OTH	-	stefan
-21	Höchstform	I-OTH	-	stefan
+18	Rückkehr	O	-	-
+19	zu	O	-	-
+20	der	O	-	-
+21	Höchstform	O	-	-
 22	“	O	-	-
 23	darstellten	O	-	-
 24	.	O	-	-
@@ -19989,12 +19989,12 @@
 # text = Auf „On a Wing and a Prayer“ (1992) spielte er wieder in einigen Stücken zusammen mit seinem Partner der Stealers Wheel, Egan.
 1	Auf	O	-	-
 2	„	O	-	-
-3	On	B-OTH	-	stefan
-4	a	I-OTH	-	stefan
-5	Wing	I-OTH	-	stefan
-6	and	I-OTH	-	stefan
-7	a	I-OTH	-	stefan
-8	Prayer	I-OTH	-	stefan
+3	On	O	-	-
+4	a	O	-	-
+5	Wing	O	-	-
+6	and	O	-	-
+7	a	O	-	-
+8	Prayer	O	-	-
 9	“	O	-	-
 10	(	O	-	-
 11	1992	O	-	-
@@ -20058,9 +20058,9 @@
 4	dem	O	-	-
 5	Album	O	-	-
 6	„	O	-	-
-7	Over	B-OTH	-	stefan
-8	My	I-OTH	-	stefan
-9	Head	I-OTH	-	stefan
+7	Over	O	-	-
+8	My	O	-	-
+9	Head	O	-	-
 10	“	O	-	-
 11	von	O	-	-
 12	1994	O	-	-
@@ -20072,13 +20072,13 @@
 18	-	O	-	-
 19	Songs	O	-	-
 20	„	O	-	-
-21	Her	B-OTH	-	stefan
-22	fahter	I-OTH	-	stefan
-23	didn'	I-OTH	-	stefan
-24	t	I-OTH	-	stefan
-25	like	I-OTH	-	stefan
-26	me	I-OTH	-	stefan
-27	anyway	I-OTH	-	stefan
+21	Her	O	-	-
+22	fahter	O	-	-
+23	didn'	O	-	-
+24	t	O	-	-
+25	like	O	-	-
+26	me	O	-	-
+27	anyway	O	-	-
 28	“	O	-	-
 29	auf	O	-	-
 30	.	O	-	-
@@ -20316,8 +20316,8 @@
 22	-	O	-	-
 23	Anthologie	O	-	-
 24	„	O	-	-
-25	Star	B-OTH	-	stefan
-26	Reach	I-OTH	-	stefan
+25	Star	O	-	-
+26	Reach	O	-	-
 27	“	O	-	-
 28	gehörten	O	-	-
 29	.	O	-	-
@@ -20409,10 +20409,10 @@
 5	britischen	O	-	-
 6	Komödie	O	-	-
 7	„	O	-	-
-8	Lachsfischen	B-OTH	-	stefan
-9	in	I-OTH	-	stefan
-10	dem	I-OTH	-	stefan
-11	Jemen	I-OTH	-	stefan
+8	Lachsfischen	O	-	-
+9	in	O	-	-
+10	dem	O	-	-
+11	Jemen	O	-	-
 12	“	O	-	-
 13	von	O	-	-
 14	2011	O	-	-
@@ -20449,8 +20449,8 @@
 10	in	O	-	-
 11	Disneys	O	-	-
 12	„	O	-	-
-13	Die	B-OTH	-	stefan
-14	Muppets	I-OTH	-	stefan
+13	Die	O	-	-
+14	Muppets	O	-	-
 15	“	O	-	-
 16	als	O	-	-
 17	Miss	B-PER	-	stefan
@@ -20468,8 +20468,8 @@
 6	dem	O	-	-
 7	Film	O	-	-
 8	„	O	-	-
-9	Fast	B-OTH	-	stefan
-10	Verheiratet	I-OTH	-	stefan
+9	Fast	O	-	-
+10	Verheiratet	O	-	-
 11	“	O	-	-
 12	aus	O	-	-
 13	dem	O	-	-
@@ -20521,7 +20521,7 @@
 26	zu	O	-	-
 27	drehen	O	-	-
 28	(	O	-	-
-29	Looper	B-OTH	-	stefan
+29	Looper	O	-	-
 30	)	O	-	-
 31	,	O	-	-
 32	bei	O	-	-
@@ -20556,7 +20556,7 @@
 8	stereotypen	O	-	-
 9	Porträt	O	-	-
 10	eines	O	-	-
-11	arabischen	B-OTH	-	stefan
+11	arabischen	O	-	-
 12	Mannes	O	-	-
 13	abzugrenzen	O	-	-
 14	.	O	-	-
@@ -20651,10 +20651,10 @@
 2	dem	O	-	-
 3	Mai	O	-	-
 4	erschossen	O	-	-
-5	tschechische	B-OTH	-	stefan
+5	tschechische	O	-	-
 6	Grenzsoldaten	O	-	-
 7	zwei	O	-	-
-8	sudetendeutsche	B-OTH	-	stefan
+8	sudetendeutsche	O	-	-
 9	Bauern	O	-	-
 10	,	O	-	-
 11	die	O	-	-
@@ -21060,7 +21060,7 @@
 11	,	O	-	-
 12	in	O	-	-
 13	„	O	-	-
-14	Sabrina	B-OTH	-	stefan
+14	Sabrina	O	-	-
 15	“	O	-	-
 16	(	O	-	-
 17	1954	O	-	-
@@ -21294,7 +21294,7 @@
 5	den	O	-	-
 6	Song	O	-	-
 7	„	O	-	-
-8	Stephen	B-OTH	-	stefan
+8	Stephen	O	-	-
 9	“	O	-	-
 10	gemeinsam	O	-	-
 11	,	O	-	-
@@ -21451,18 +21451,18 @@
 15	dessen	O	-	-
 16	Filmen	O	-	-
 17	„	O	-	-
-18	Per	B-OTH	-	stefan
-19	Anhalter	I-OTH	-	stefan
-20	durch	I-OTH	-	stefan
-21	die	I-OTH	-	stefan
-22	Galaxis	I-OTH	-	stefan
+18	Per	O	-	-
+19	Anhalter	O	-	-
+20	durch	O	-	-
+21	die	O	-	-
+22	Galaxis	O	-	-
 23	“	O	-	-
 24	und	O	-	-
 25	„	O	-	-
-26	Der	B-OTH	-	stefan
-27	Sohn	I-OTH	-	stefan
-28	von	I-OTH	-	stefan
-29	Rambow	I-OTH	-	stefan
+26	Der	O	-	-
+27	Sohn	O	-	-
+28	von	O	-	-
+29	Rambow	O	-	-
 30	“	O	-	-
 31	.	O	-	-
 
@@ -21739,7 +21739,7 @@
 1	1832	O	-	-
 2	verkaufte	O	-	-
 3	der	O	-	-
-4	württembergische	B-OTH	-	stefan
+4	württembergische	O	-	-
 5	Staat	O	-	-
 6	die	O	-	-
 7	ehemalige	O	-	-
@@ -22000,7 +22000,7 @@
 1	Insbesondere	O	-	-
 2	wollten	O	-	-
 3	die	O	-	-
-4	Osmanen	B-OTH	-	stefan
+4	Osmanen	O	-	-
 5	verhindern	O	-	-
 6	,	O	-	-
 7	dass	O	-	-
@@ -22329,7 +22329,7 @@
 15	Polen	B-LOC	-	stefan
 16	und	O	-	-
 17	die	O	-	-
-18	baltischen	B-OTH	-	stefan
+18	baltischen	O	-	-
 19	Länder	O	-	-
 20	.	O	-	-
 
@@ -22419,7 +22419,7 @@
 11	Jahre	O	-	-
 12	1632	O	-	-
 13	von	O	-	-
-14	schwedischen	B-OTH	-	stefan
+14	schwedischen	O	-	-
 15	Truppen	O	-	-
 16	zerstört	O	-	-
 17	.	O	-	-
@@ -22801,7 +22801,7 @@
 4	der	O	-	-
 5	Gründungsakt	O	-	-
 6	der	O	-	-
-7	Römischen	B-OTH	-	stefan
+7	Römischen	O	-	-
 8	Gesetzgebung	O	-	-
 9	,	O	-	-
 10	der	O	-	-
@@ -22880,7 +22880,7 @@
 13	,	O	-	-
 14	aber	O	-	-
 15	die	O	-	-
-16	Griechen	B-OTH	-	stefan
+16	Griechen	O	-	-
 17	übernahmen	O	-	-
 18	das	O	-	-
 19	Phoenizische	O	-	-
@@ -23210,7 +23210,7 @@
 4	1948	O	-	-
 5	hoffte	O	-	-
 6	der	O	-	-
-7	belgische	B-OTH	-	stefan
+7	belgische	O	-	-
 8	Künstler	O	-	-
 9	,	O	-	-
 10	Tim	B-PER	-	stefan
@@ -23348,7 +23348,7 @@
 6	dem	O	-	-
 7	Bruch	O	-	-
 8	der	O	-	-
-9	australischen	B-OTH	-	stefan
+9	australischen	O	-	-
 10	Platte	O	-	-
 11	;	O	-	-
 12	der	O	-	-
@@ -23358,10 +23358,10 @@
 16	der	O	-	-
 17	Kollision	O	-	-
 18	der	O	-	-
-19	indischen	B-OTH	-	stefan
+19	indischen	O	-	-
 20	mit	O	-	-
 21	der	O	-	-
-22	australischen	B-OTH	-	stefan
+22	australischen	O	-	-
 23	Platte	O	-	-
 24	.	O	-	-
 
@@ -23466,7 +23466,7 @@
 10	Todesstrafe	O	-	-
 11	in	O	-	-
 12	dem	O	-	-
-13	vatikanischen	B-OTH	-	stefan
+13	vatikanischen	O	-	-
 14	Gesetz	O	-	-
 15	ab	O	-	-
 16	und	O	-	-
@@ -23595,7 +23595,7 @@
 18	südlichen	O	-	-
 19	Teil	O	-	-
 20	der	O	-	-
-21	italienischen	B-OTH	-	stefan
+21	italienischen	O	-	-
 22	Halbinsel	O	-	-
 23	zu	O	-	-
 24	beziehen	O	-	-
@@ -23695,14 +23695,14 @@
 11	der	O	-	-
 12	Sieg	O	-	-
 13	der	O	-	-
-14	Franzosen	B-OTH	-	stefan
+14	Franzosen	O	-	-
 15	in	O	-	-
 16	der	O	-	-
 17	Schlacht	O	-	-
 18	von	O	-	-
 19	Marengo	O	-	-
 20	die	O	-	-
-21	Österreicher	B-OTH	-	stefan
+21	Österreicher	O	-	-
 22	dazu	O	-	-
 23	,	O	-	-
 24	Italien	O	-	-
@@ -23770,7 +23770,7 @@
 24	:	O	-	-
 25	Der	O	-	-
 26	neue	O	-	-
-27	britische	B-OTH	-	stefan
+27	britische	O	-	-
 28	Premierminister	O	-	-
 29	Lord	B-PER	-	stefan
 30	Grenville	I-PER	-	stefan
@@ -23910,12 +23910,12 @@
 12	B.	O	-	-
 13	in	O	-	-
 14	„	O	-	-
-15	Metti	B-OTH	-	stefan
-16	,	I-OTH	-	stefan
-17	una	I-OTH	-	stefan
-18	sera	I-OTH	-	stefan
-19	a	I-OTH	-	stefan
-20	cena	I-OTH	-	stefan
+15	Metti	O	-	-
+16	,	O	-	-
+17	una	O	-	-
+18	sera	O	-	-
+19	a	O	-	-
+20	cena	O	-	-
 21	“	O	-	-
 22	;	O	-	-
 23	einige	O	-	-
@@ -24234,7 +24234,7 @@
 8	1777	O	-	-
 9	,	O	-	-
 10	als	O	-	-
-11	britische	B-OTH	-	stefan
+11	britische	O	-	-
 12	Streitkräfte	O	-	-
 13	unter	O	-	-
 14	dem	O	-	-
@@ -24294,7 +24294,7 @@
 13	sie	O	-	-
 14	unterstützten	O	-	-
 15	die	O	-	-
-16	Briten	B-OTH	-	stefan
+16	Briten	O	-	-
 17	,	O	-	-
 18	weil	O	-	-
 19	die	O	-	-
@@ -24412,7 +24412,7 @@
 1	Wenn	O	-	-
 2	allerdings	O	-	-
 3	das	O	-	-
-4	englische	B-OTH	-	stefan
+4	englische	O	-	-
 5	Gesetz	O	-	-
 6	akzeptiert	O	-	-
 7	worden	O	-	-
@@ -24474,7 +24474,7 @@
 24	Invasion	O	-	-
 25	des	O	-	-
 26	gesamten	O	-	-
-27	französischen	B-OTH	-	stefan
+27	französischen	O	-	-
 28	Königreichs	O	-	-
 29	.	O	-	-
 
@@ -24543,12 +24543,12 @@
 33	sollte	O	-	-
 34	:	O	-	-
 35	„	O	-	-
-36	Don'	B-OTH	-	stefan
-37	t	I-OTH	-	stefan
-38	Go	I-OTH	-	stefan
-39	Breaking	I-OTH	-	stefan
-40	My	I-OTH	-	stefan
-41	Heart	I-OTH	-	stefan
+36	Don'	O	-	-
+37	t	O	-	-
+38	Go	O	-	-
+39	Breaking	O	-	-
+40	My	O	-	-
+41	Heart	O	-	-
 42	“	O	-	-
 43	.	O	-	-
 
