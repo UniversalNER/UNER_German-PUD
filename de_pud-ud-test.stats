@@ -2,23 +2,23 @@
   "dataset_id": "de_pud-ud-test",
   "num_documents": 397,
   "num_annotated_documents": 397,
-  "num_annotations": 1628,
+  "num_annotations": 1630,
   "num_annotators": 2,
   "annotator_ids": [
     "stefan",
     "stephen"
   ],
-  "num_docs_with_multiple_annotators": 10,
+  "num_docs_with_multiple_annotators": 11,
   "num_sentences": 1000,
   "num_tokens": 21331,
   "label_distribution": {
-    "LOC": 429,
     "PER": 418,
+    "LOC": 429,
     "ORG": 192
   },
   "pairwise_f1": {
     "ref:stefan, pred:stephen": {
-      "num_common_annotated_docs": 10,
+      "num_common_annotated_docs": 11,
       "LOC": {
         "precision": 0.75,
         "recall": 1.0,
@@ -26,13 +26,13 @@
       },
       "ORG": {
         "precision": 1.0,
-        "recall": 0.6666666666666666,
-        "f1": 0.8
+        "recall": 0.6,
+        "f1": 0.7499999999999999
       },
       "PER": {
         "precision": 1.0,
-        "recall": 0.8571428571428571,
-        "f1": 0.923076923076923
+        "recall": 0.7777777777777778,
+        "f1": 0.8750000000000001
       }
     },
     "average": {
@@ -43,13 +43,13 @@
       },
       "ORG": {
         "precision": 1.0,
-        "recall": 0.6666666666666666,
-        "f1": 0.8
+        "recall": 0.6,
+        "f1": 0.7499999999999999
       },
       "PER": {
         "precision": 1.0,
-        "recall": 0.8571428571428571,
-        "f1": 0.923076923076923
+        "recall": 0.7777777777777778,
+        "f1": 0.8750000000000001
       }
     }
   }
