@@ -12,8 +12,8 @@
   "num_sentences": 1000,
   "num_tokens": 21331,
   "label_distribution": {
-    "PER": 418,
     "LOC": 429,
+    "PER": 418,
     "ORG": 192
   },
   "pairwise_f1": {
